@@ -6,10 +6,10 @@ I've shipped production systems for government departments and businesses: docum
 
 ### 🔧 What I work with
 
-**Backend:** Laravel · PHP · MySQL · PostgreSQL / pgvector · REST APIs · Queues
-**Frontend:** React · Vue 3 · Inertia.js · Tailwind · Quasar
-**AI:** Multi-agent orchestration · Tool calling · RAG · OpenAI · Gemini · `laravel/ai`
-**Integrations:** Razorpay · Google Drive/Sheets APIs · Firebase Cloud Messaging · OAuth
+- **Backend:** Laravel · PHP · MySQL · PostgreSQL / pgvector · REST APIs · Queues
+- **Frontend:** React · Vue 3 · Inertia.js · Tailwind · Quasar
+- **AI:** Multi-agent orchestration · Tool calling · RAG · OpenAI · Gemini · `laravel/ai`
+- **Integrations:** Razorpay · Google Drive/Sheets APIs · Firebase Cloud Messaging · OAuth
 
 ### ⭐ Featured projects
 
