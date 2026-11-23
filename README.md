@@ -1,17 +1,20 @@
 # Hi, I'm Raunak 👋
 
-I'm a full-stack developer building **Laravel** applications with **React or Vue (Inertia.js)**. Lately I've focused on **operational data models** and **AI agents for business software**.
+I'm a software engineer who turns messy real-world data into systems people run their work on. I work across **Laravel**, **Vue/React (Inertia.js)**, **Python data pipelines**, **PostgreSQL** and **LLM agents**.
 
-I've built, deployed and maintained production systems for government departments and businesses: document management, attendance with QR codes and push notifications, HR and leave workflows, recruitment portals, finance modules, and tourism and booking sites with online payments. Most of this work is in private repositories for client confidentiality. I'm happy to walk through it on request.
+At **Eightsis Tech** I'm the primary developer of a multi-tenant AI accounting platform for Indian CA firms, now in user testing. It has two-way Tally sync, GST reconciliation (GSTR-1, GSTR-2B, 26AS) and an AI assistant that reads reports and writes vouchers.
+
+Before that, I spent 2.5 years at **Mizoram State e-Governance Society**, where I built, deployed and maintained 10+ production systems for state government departments: document management, attendance with QR codes and push notifications, HR and leave workflows, recruitment portals, finance modules, and tourism systems. Most of this work is in private repositories for client confidentiality. I'm happy to walk through it on request.
 
 ### 🔧 What I work with
 
 - **Backend:** Laravel · PHP · MySQL · PostgreSQL / pgvector · REST APIs · Queues
 - **Frontend:** React · Vue 3 · Inertia.js · Tailwind · Quasar
+- **Mobile:** Flutter · Dart · Firebase Cloud Messaging
 - **Data:** Python · SQL pipelines · Data-quality checks · Entity resolution · Backtesting
 - **AI:** Multi-agent orchestration · Tool calling · RAG · OpenAI · Gemini · `laravel/ai`
 - **Deployment:** Ubuntu VPS (AWS Lightsail, DigitalOcean) · Nginx + PHP-FPM · Let's Encrypt SSL · Supervisor queue workers and WebSockets · Redis · GitHub Actions CI/CD · Vercel · Firebase
-- **Integrations:** Razorpay · Google Drive/Sheets APIs · Firebase Cloud Messaging · OAuth
+- **Integrations:** Tally · Razorpay · Google Drive/Sheets APIs · Web Push · OAuth · Sentry
 
 ### ⭐ Featured projects
 
