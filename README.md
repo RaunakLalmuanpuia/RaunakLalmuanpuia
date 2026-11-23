@@ -25,4 +25,4 @@ I've shipped production systems for government departments and businesses: docum
 
 ### 📫 Get in touch
 
-Open to freelance projects and full-time roles. <!-- add your email / LinkedIn here -->
+Open to freelance projects and full-time roles. Rlpuia@outlook.com
