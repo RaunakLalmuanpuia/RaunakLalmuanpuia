@@ -2,7 +2,7 @@
 
 I'm a full-stack developer building **Laravel** applications with **React or Vue (Inertia.js)**. Lately I've focused on **operational data models** and **AI agents for business software**.
 
-I've shipped production systems for government departments and businesses: document management, attendance with QR codes and push notifications, HR and leave workflows, recruitment portals, finance modules, and tourism and booking sites with online payments. Most of this work is in private repositories for client confidentiality. I'm happy to walk through it on request.
+I've built, deployed and maintained production systems for government departments and businesses: document management, attendance with QR codes and push notifications, HR and leave workflows, recruitment portals, finance modules, and tourism and booking sites with online payments. Most of this work is in private repositories for client confidentiality. I'm happy to walk through it on request.
 
 ### 🔧 What I work with
 
@@ -10,6 +10,7 @@ I've shipped production systems for government departments and businesses: docum
 - **Frontend:** React · Vue 3 · Inertia.js · Tailwind · Quasar
 - **Data:** Python · SQL pipelines · Data-quality checks · Entity resolution · Backtesting
 - **AI:** Multi-agent orchestration · Tool calling · RAG · OpenAI · Gemini · `laravel/ai`
+- **Deployment:** Ubuntu VPS (AWS Lightsail, DigitalOcean) · Nginx + PHP-FPM · Let's Encrypt SSL · Supervisor queue workers and WebSockets · Redis · GitHub Actions CI/CD · Vercel · Firebase
 - **Integrations:** Razorpay · Google Drive/Sheets APIs · Firebase Cloud Messaging · OAuth
 
 ### ⭐ Featured projects
