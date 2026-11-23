@@ -2,7 +2,7 @@
 
 I'm a software engineer who turns messy real-world data into systems people run their work on. I work across **Laravel**, **Vue/React (Inertia.js)**, **Python data pipelines**, **PostgreSQL** and **LLM agents**.
 
-At **Eightsis Tech** I'm the primary developer of a multi-tenant AI accounting platform for Indian CA firms, now in user testing. It has two-way Tally sync, GST reconciliation (GSTR-1, GSTR-2B, 26AS) and an AI assistant that reads reports and writes vouchers.
+At **Eightsis Tech** I'm the primary developer of a multi-tenant AI accounting platform for Indian CA firms, now in user testing. It has two-way Tally sync, GST reconciliation (GSTR-1, GSTR-2B, 26AS) and an AI assistant that reads reports and writes vouchers. I also built the company's multi-tenant link shortener SaaS, with a public API, passkey login, GeoIP analytics and Razorpay billing.
 
 Before that, I spent 2.5 years at **Mizoram State e-Governance Society**, where I built, deployed and maintained 10+ production systems for state government departments: document management, attendance with QR codes and push notifications, HR and leave workflows, recruitment portals, finance modules, and tourism systems. Most of this work is in private repositories for client confidentiality. I'm happy to walk through it on request.
 
